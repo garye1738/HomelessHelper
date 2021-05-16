@@ -242,10 +242,10 @@ public class Main
 		
 		Scanner keyInput = new Scanner(System.in);
 		String issue = keyInput.nextLine();
-		keyInput.close();
+		//keyInput.close();
 		Scanner zeroFinder = new Scanner(issue);
 		String num = zeroFinder.next();
-		zeroFinder.close();
+		//zeroFinder.close();
 		
 		if(!num.equals("0"))
 		{
@@ -284,6 +284,6 @@ public class Main
 			System.out.println("You have successfully been added to our system and you have $5 dollars"
 					+ "as starting funds from the city. Please wait while we take you to the main page.");
 		}
-		keyInput.close();
+		//keyInput.close();
 	}
 }
