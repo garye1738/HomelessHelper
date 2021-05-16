@@ -5,7 +5,7 @@ with which they can be identified.
 The cloud system will allow any user to access their data from any kiosk in the relevant city/state.
 Once a user is logged in to their account, they can access a variety of services. They can make an appointment at and get directions to their local health clinic 
 if they are feeling sick. They can turn in recycled materials they find for points (with sharper, more dangerous itmes being worth greater points as an incentive). 
-Items they turn in can be placed in a sealed bin next to the kiosk. Then they can use those points to purchase healthcare items like sanitary wipes, 
+Items they turn in can be placed in a sealed bin next to the kiosk. Then they can use those points to purchase healthcare items from the kiosk like sanitary wipes, 
 feminine care products, and clean bottled water. This will allow users to maintain their personal healthcare. 
 Finally, users will be able to call for emergency services if they feel unsafe. A 911 dispatcher will call emergency services to that location and ask the user for more help. 
 
