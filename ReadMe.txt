@@ -9,6 +9,13 @@ Items they turn in can be placed in a sealed bin next to the kiosk. Then they ca
 feminine care products, and clean bottled water. This will allow users to maintain their personal healthcare. 
 Finally, users will be able to call for emergency services if they feel unsafe. A 911 dispatcher will call emergency services to that location and ask the user for more help. 
 
-There were a few improvements we would like to make. Given more time, we would like the recycle system to use an image scanner to verify what the users turn in for points. Instead we allow users to self report what items they find. Finally, we would have liked to add a speaker option if the user selects emergency services  so they can talk with
+There were a few improvements we would like to make. Given more time, we would like the recycle system to use an image scanner to verify what the users turn in for points. 
+Instead we allow users to self report what items they find. Finally, we would have liked to add a speaker option if the user selects emergency services  so they can talk with
 the call dispatcher and explain what is wrong in case they are in imminent danger and can't type. 
+
+Please copy paste the following link into your browser to test it!!
+
+https://replit.com/@gabrielarye/HomelessHelper#Main.java
+
+
 
